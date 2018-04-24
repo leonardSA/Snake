@@ -3,14 +3,14 @@ Projet de SmallTalk  - licence 2 semestre 3 - 2018
 Élève : Joseph Leonard STEPHEN AUGUSTE  
 Il s'agit de créer un jeu snake à partir environnement de développement **_Visualworks_**.  
 
-##Classes
+##Classes  
 On créer notre application en se basant sur le modèle MVC (Modèle Vue Controlleur), d'où nos classes :
 - **Snake** : est notre modèle, c'est dans cette classe qu'est définie notre principal objet ;
 - **SnakeController** : notre controlleur qui permettra notamment de changer la direction de notre serpent ;
 - **SnakeUI** : est l'interface, ce que l'on voit réellement de notre application ;
 - **SnakeView** : s'occupe de l'affichage de notre application dans notre interface.
 
-##Snake
+##Snake  
 Variables d'instance | Description
 ---|---
 board | Matrice représentant l'espace de jeu
