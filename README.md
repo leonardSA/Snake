@@ -29,7 +29,9 @@ testBoard | Initialisation de l'objet Snake qui sera utilisé dans notre applica
 
 ## SnakeController
 
-**_Vide pour l'instant_**
+Méthodes | Description
+---|---
+anyfocusKeypressEvent: | Cette méthode permet à l'utilisateur de choisir la direction de Snake en utilisant les touches haut, bas, droite et gauche du clavier
 
 ## SnakeUI
 
