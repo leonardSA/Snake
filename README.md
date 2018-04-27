@@ -20,6 +20,7 @@ height | Entier gardant le nombre de lignes de la matrice
 width | Entier gardant le nombre de colonnes de la matrice
 snake | Collection de points correspondant aux cases sur lesquelles est le serpent
 direction | Entier prenant une valeur comprise entre 0 et 3 donnant la direction du serpent (0 haut, 1 droite, 2 bas, 3 gauche)
+food | Contient la position de l'objet que mange snake pour grandir
 
 Méthodes | Description
 ---|---
