@@ -3,6 +3,8 @@ Projet de SmallTalk  - licence 2 semestre 3 - 2018
 Élève : Joseph Leonard STEPHEN AUGUSTE  
 Il s'agit de créer un jeu snake à partir environnement de développement **_Visualworks_**.  
 
+Erreur comise : mise en lignes d'images et non de parcels, il faut utiliser une machine virtuelle linux 64-bit pour les ouvrir.
+
 ## Classes  
 
 On créer notre application en se basant sur le modèle MVC (Modèle Vue Controlleur), d'où nos classes :
